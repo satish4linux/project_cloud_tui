@@ -1,0 +1,1 @@
+This folder contains the server side script and the required pages
